@@ -1,0 +1,15 @@
+ăn uống,1
+ăn kem,1
+nhà hàng,1
+nhà ăn,1
+nhà bếp,1
+nhà khách,1
+a,1
+b,1
+dsf,1
+à,1
+123,1
+1234,1
+asdf,1
+vzx,1
+f,1

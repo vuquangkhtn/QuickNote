@@ -1,0 +1,6 @@
+LIBRARY "DLLKeyBoard.dll"
+
+EXPORTS
+_doInstallHook @1
+_doRemoveHook @2
+getCode @3
